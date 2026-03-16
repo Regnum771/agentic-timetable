@@ -320,8 +320,9 @@ For a production system, they should probably be merged — the output shape is 
 
 ## AI Use Acknowledgements
 
-- The frontend is written using Claude Opus 4.6 (released Feb 05, 2026)
-- The README.md is written using Claude Sonnet 4.6 (released Feb 17, 2026)
+- Frontend is written using Claude Opus 4.6 (released Feb 05, 2026)
+- Dockerfile is written using Claude Opus 4.6 (released Feb 05, 2026)
+- README.md is written using Claude Sonnet 4.6 (released Feb 17, 2026)
 
 ## License
 
