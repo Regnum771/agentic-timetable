@@ -3,7 +3,7 @@
 A multi-agent university timetable system where **10 specialized agents** collaborate through a central orchestrator to deliver personto students. Built as a proof of concept demonstrating agentic AI architecture with real Claude API calls.
 
 The system learns from student interactions — dismiss a notification too early and it adjusts timing; rate a notification negatively and it changes tone. Agents analyse attendance patterns, academic performance, and schedule context to generate genuinely useful, personalized reminders.alized, adaptive notifications 
-g
+
 ---
 
 ## Quick Start
