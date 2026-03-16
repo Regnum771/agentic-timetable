@@ -1,0 +1,10 @@
+grade_id,assignment_id,course_id,score,submitted_at,late,feedback
+G001,A001,CS201,82,2026-02-20T21:30,false,Good implementation. Edge cases handled well.
+G002,A002,CS201,78,2026-03-13T22:45,false,AVL rebalancing correct but could be more efficient.
+G003,A005,CS202,85,2026-03-06T20:00,false,Excellent analysis with clear Big-O notation.
+G004,A008,CS210,45,2026-02-28T01:15,true,ER diagram incomplete. Missing several relationships. Late submission.
+G005,A011,CS220,72,2026-03-06T23:50,false,Scheduling algorithms correct but UI could be improved.
+G006,A014,CS250,68,2026-03-13T23:58,false,Requirements mostly complete but missing non-functional requirements.
+G007,A009,CS210,48,2026-03-27T23:55,false,Queries work but no optimisation attempted. Missing indexes.
+G008,A006,CS202,80,2026-04-03T18:30,false,Strong DP solutions. Memoisation well implemented.
+G009,A012,CS220,65,2026-04-04T02:00,true,Good analysis but some comparisons are inaccurate. Late.

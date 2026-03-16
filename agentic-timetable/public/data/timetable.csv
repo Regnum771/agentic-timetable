@@ -1,0 +1,14 @@
+event_id,course_id,type,day_of_week,start_time,end_time,location,weeks
+TT001,CS201,lecture,Monday,09:00,11:00,Room 301 Block A,1-16
+TT002,CS201,lecture,Wednesday,09:00,11:00,Room 301 Block A,1-16
+TT003,CS201,tutorial,Friday,14:00,15:30,Lab 201 Block B,1-16
+TT004,CS202,lecture,Monday,13:00,15:00,Lecture Hall 1,1-16
+TT005,CS202,lecture,Thursday,09:00,11:00,Lecture Hall 1,1-16
+TT006,CS202,tutorial,Friday,09:00,10:30,Lab 302 Block B,1-16
+TT007,CS210,lecture,Tuesday,09:00,11:00,Room 405 Block A,1-16
+TT008,CS210,lecture,Thursday,13:00,15:00,Room 405 Block A,1-16
+TT009,CS220,lecture,Tuesday,13:00,15:00,Room 201 Block C,1-16
+TT010,CS220,lecture,Friday,11:00,13:00,Room 201 Block C,1-16
+TT011,CS220,tutorial,Wednesday,14:00,15:30,Lab 101 Block C,1-16
+TT012,CS250,lecture,Wednesday,11:00,13:00,Room 502 Block A,1-16
+TT013,CS250,lecture,Thursday,15:00,17:00,Room 502 Block A,1-16

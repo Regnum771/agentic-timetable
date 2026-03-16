@@ -1,0 +1,17 @@
+assignment_id,course_id,title,due_date,weight,type,description
+A001,CS201,Linked List Implementation,2026-02-20T23:59,10,coding,Implement a doubly linked list with iterator support
+A002,CS201,Binary Tree Operations,2026-03-13T23:59,15,coding,Implement AVL tree with insert delete and rebalancing
+A003,CS201,Graph Algorithms,2026-04-10T23:59,15,coding,Implement BFS DFS and Dijkstra shortest path
+A004,CS201,Hash Table Design,2026-05-01T23:59,10,coding,Design and implement a hash table with collision handling
+A005,CS202,Complexity Analysis Report,2026-03-06T23:59,10,report,Analyse time and space complexity of 5 sorting algorithms
+A006,CS202,Dynamic Programming Set,2026-04-03T23:59,15,coding,Solve 8 dynamic programming problems with memoization
+A007,CS202,Algorithm Design Project,2026-05-08T23:59,20,coding,Design and implement a novel algorithm for a real-world problem
+A008,CS210,ER Diagram and Normalisation,2026-02-27T23:59,10,report,Design ER diagram and normalise to 3NF for a library system
+A009,CS210,SQL Query Optimisation,2026-03-27T23:59,15,coding,Write and optimise complex SQL queries on provided dataset
+A010,CS210,Database Application,2026-04-24T23:59,15,coding,Build a full CRUD application with stored procedures
+A011,CS220,Process Scheduling Simulation,2026-03-06T23:59,10,coding,Simulate FCFS SJF and Round Robin scheduling algorithms
+A012,CS220,Memory Management Report,2026-04-03T23:59,15,report,Analyse paging and segmentation with performance comparisons
+A013,CS220,File System Implementation,2026-05-01T23:59,15,coding,Implement a simple file system with basic operations
+A014,CS250,Requirements Specification,2026-03-13T23:59,10,report,Write SRS document for a team project using IEEE template
+A015,CS250,Design Document,2026-04-10T23:59,10,report,Create UML diagrams and architectural design for team project
+A016,CS250,Team Project Delivery,2026-05-15T23:59,25,coding,Deliver working software with documentation and test suite

@@ -1,0 +1,10 @@
+exam_id,course_id,title,date,duration_mins,weight,location,topics
+E001,CS201,Mid-Semester Exam,2026-03-20T09:00,120,15,Exam Hall 1,Weeks 1-7: linked lists trees stacks queues
+E002,CS201,Final Exam,2026-05-18T09:00,180,25,Exam Hall 1,All topics: comprehensive
+E003,CS202,Mid-Semester Exam,2026-03-19T14:00,120,15,Exam Hall 2,Weeks 1-7: complexity sorting searching
+E004,CS202,Final Exam,2026-05-19T09:00,180,25,Exam Hall 2,All topics: comprehensive
+E005,CS210,Mid-Semester Exam,2026-03-17T09:00,90,15,Exam Hall 3,Weeks 1-7: ER models normalisation basic SQL
+E006,CS210,Final Exam,2026-05-20T14:00,120,30,Exam Hall 3,All topics: comprehensive
+E007,CS220,Mid-Semester Exam,2026-03-18T14:00,120,15,Exam Hall 1,Weeks 1-7: processes threads scheduling
+E008,CS220,Final Exam,2026-05-21T09:00,180,25,Exam Hall 1,All topics: comprehensive
+E009,CS250,Final Exam,2026-05-22T09:00,120,30,Exam Hall 2,All topics: SDLC requirements design testing
