@@ -312,13 +312,16 @@ For a production system, they should probably be merged — the output shape is 
 
 - **Merge Composer + Digest + Weekly** into a single Sonnet call per daily tick
 - **LLM-powered chat actions** — "remind me about the OS exam 2 days before" creates a notification
-- **Multi-student support** with authentication and per-student data isolation
 - **ML-based preference learning** — replace rule-based feedback model with a bandit algorithm
-- **Real data integration** — connect to university LMS APIs instead of CSV files
 - **Mobile push notifications** via service workers
 - **A/B testing** — use the composition log to automatically test different notification tones
 
 ---
+
+## AI Use Acknowledgements
+
+- The frontend is written using Claude Opus 4.6 (released Feb 05, 2026)
+- The README.md is written using Claude Sonnet 4.6 (released Feb 17, 2026)
 
 ## License
 
